@@ -10,5 +10,5 @@ Background is accumulated through entire process. To detect motion, we compute t
   
 The smaller α is, the more sensitive the system is to motion.
 
-# Output example
-https://github.com/daoducanhc/motion_detector_/blob/master/Frame%202020-05-15%2014-10-11.mp4
+## Project Demo
+![Live Demo](https://github.com/daoducanhc/motion_detector_/blob/master/demo.gif)
